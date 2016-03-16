@@ -26,3 +26,18 @@
 <img width="30%" height="30%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/finish_act.png">
 <img width="30%" height="30%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/act_rote.png">
 
+* **搜索好友**：由于我们的软件的一个定位是社交软件，因此好友是非常重要的部分，每次用户登录将会获取用户的位置并传送到服务器，这样，通过搜索附近好友，用户可以看到附近使用这款软件的伙伴，这样方便进行集合和沟通。我们的软件还将加入聊天、发状态等功能使得社交方面做的更加具体。附近的用户将以列表和地图的形式体现出来，点击之后可以获得用户的具体信息，用户发现喜爱的好友就可以加关注了，这样会得知她参加的活动，与好友一起进行运动。
+
+* **好友排行**：好友将会在服务器端通过评分进行排序，用户可以观察在好友中的排行，这样对其锻炼将会进行更进一步的促进。而根据评分的奖励措施也可以联系相应的赞助商设置。
+
+<img width="30%" height="30%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/near_frd_list.png">
+<img width="30%" height="30%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/near_frd_map.png">
+<img width="30%" height="30%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/history_list.png">
+
+---
+
+* 我们的作品可以向社交方面和个人的助手型软件两个方面同时发展，并且在影响力上将会通过个人用户->团队->群体不断扩展，使得使用影响全世界。这款软件背负着延长人类寿命，提高人类的生活质量，促进人与人沟通交流等责任，任重而道远，我们将与这款APP共同进步！
+
+* **制作人**：曹荣禹团队
+
+* **作品**：[一起锻炼吧(WorkOut)]()

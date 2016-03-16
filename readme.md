@@ -40,4 +40,4 @@
 
 * **制作人**：曹荣禹团队
 
-* **作品**：[一起锻炼吧(WorkOut)]()
+* **作品**：[一起锻炼吧(WorkOut)](https://github.com/caorongyu/workup)

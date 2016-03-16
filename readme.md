@@ -12,4 +12,4 @@
 
 * **创建活动**：
 
-<img width="33%" height="33%" src="https://github.com/persistforever/persistforever.github.io/blob/master/tiny_item/recommendation_system/BUCF_for_python/result/CF%20cmp%20CF-IIF%20on%20precision&recall.png?raw=true">
+<img width="33%" height="33%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/create_act.png">

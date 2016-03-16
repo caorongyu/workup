@@ -10,15 +10,19 @@
 
 #### 功能介绍
 
-* **主界面**：
-
-<img width="33%" height="33%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/main_page.png">
-<img width="33%" height="33%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/create_act.png">
-<img width="33%" height="33%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/search_act.png">
+* **主界面**：现实头像，用户名和功能按钮。
 
 * **创建活动**：用户可以作为发起人号召一个活动，设置活动的信息，还有活动的起点。
 
-
 * **搜索活动**：用户可以作为参与人参加一个活动，他先通过搜索附近的活动获得附近活动的信息和地点，从中选择出自己喜爱的活动，并且可以加入该活动。
 
+<img width="30%" height="30%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/main_page.png">
+<img width="30%" height="30%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/create_act.png">
+<img width="30%" height="30%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/search_act.png">
+
+* **开始活动**：发起好的活动和参加了的活动在活动开始前会发送推送提醒，这样保证用户不会错过每一个活动。如果在预订的时间内到达相应的地点，就可以看到参与这个活动的伙伴们了，这样大家聚集到一起，就可以开始活动了（这里我们会做活动地点和活动时间的判定，如果用户想投机取巧地在活动还没开始或者不在指定地点，是无法进行活动的）。活动过程中会有实时监控您的运动信息，记录时间，速度，路程，耗热量，耐力值，爆发力值，以及进行实时定位，用户会对此感觉到充满好奇。同时还会根据用户以往的锻炼经历进行提示，如还有多少米将到达您平均跑步的路程，更加人性化的人机交互会使得用户在锻炼过程中获得更多的乐趣。活动结束后客户端将整合好的数据发送给服务器，服务器会进行评分计算，并返回客户端，这里的评分将根据上述的信息以及参与的人数进行评判，用户可以与开始进行活动的伙伴PK，享受竞技的快感。而这些数据也是用户的最宝贵的资料，在服务器端进行分析。
+
+<img width="30%" height="30%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/start_act.png">
+<img width="30%" height="30%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/finish_act.png">
+<img width="30%" height="30%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/act_rote.png">
 

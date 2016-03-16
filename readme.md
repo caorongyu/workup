@@ -1,4 +1,4 @@
-## 一起锻炼吧(WordUp)
+## 一起锻炼吧 (WorkUp)
 ---
 
 #### 设计背景
@@ -10,6 +10,10 @@
 
 #### 功能介绍
 
-* **创建活动**：
+* **创建活动**：用户可以作为发起人号召一个活动，设置活动的信息，还有活动的起点。
 
-<img width="33%" height="33%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/create_act.png">
+<img width="20%" height="20%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/create_act.png">
+
+* **搜索活动**：用户可以作为参与人参加一个活动，他先通过搜索附近的活动获得附近活动的信息和地点，从中选择出自己喜爱的活动，并且可以加入该活动。
+
+<img width="20%" height="20%" src="https://github.com/caorongyu/workup/blob/master/documents/pic/search_act.png">
